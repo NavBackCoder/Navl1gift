@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895584338653",
+    "project_id": "naval1gifty",
+    "storage_bucket": "naval1gifty.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895584338653:android:fa986daa0f954a288f5134",
+        "android_client_info": {
+          "package_name": "com.example.naval1gifty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmVoqBXiHG9HwjO10R-mJNc9xbZvsmLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
